@@ -13,12 +13,12 @@ ModelImporter:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Uriel_diffuse
-    second: {fileID: 2800000, guid: d12c3ab4f7370d641902b835857af144, type: 3}
+    second: {fileID: 2800000, guid: e14751ab4fb941340b308853c376a707, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Uriel_specular
-    second: {fileID: 2800000, guid: dabfe67bf6432d9468f62712512325b3, type: 3}
+    second: {fileID: 2800000, guid: 19ccdf293bf3d4d41a6dccad623cdc7b, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0

@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 00000000000000000000000000000000
+  productGUID: a1e741e3decf1454c9ee797eb3b3dba0
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -733,7 +733,7 @@ PlayerSettings:
     tvOS: UNITY_POST_PROCESSING_STACK_V2
   additionalCompilerArguments: {}
   platformArchitecture:
-    iPhone: 2
+    iPhone: 1
   scriptingBackend:
     WP8: 2
     WebGL: 1
@@ -854,7 +854,7 @@ PlayerSettings:
   cloudProjectId: d74db27f-d80d-4727-94f2-1c8425cc3732
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: Golden Legions - Storming Darkness
   organizationId: pv_unity2009
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1

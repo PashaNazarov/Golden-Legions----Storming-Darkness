@@ -13,17 +13,17 @@ ModelImporter:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Arissa_DIFF_diffuse
-    second: {fileID: 2800000, guid: 8900a42e5da0d6b42a92573d9692fb74, type: 3}
+    second: {fileID: 2800000, guid: 4528f9955f271c54ba2d527cb48a22cc, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Arissa_NM_normal
-    second: {fileID: 2800000, guid: 4a08ac0fa28305c4b9424fae0aba229d, type: 3}
+    second: {fileID: 2800000, guid: 2e1199c930e95ef4eae0f77a498de59b, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Arissa_SPEC_specular
-    second: {fileID: 2800000, guid: bf8e610f159ea2045aef0e95e1ac1a97, type: 3}
+    second: {fileID: 2800000, guid: 4b977dce18ef77147b6ebef86b7f3b75, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
